@@ -4,3 +4,6 @@ requests
 seaborn
 matplotlib
 flask
+scikit-learn
+catboost
+xgboost
